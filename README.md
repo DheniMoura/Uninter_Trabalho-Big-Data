@@ -2,7 +2,7 @@
 
 Atividade realizada na matéria de Big Data da Unitner.
 
-Nosso objetivo com este dataset é responder, as duas questões que se encontram no [arquivo resposta]().
+Nosso objetivo com este dataset é responder, as duas questões que se encontram no [arquivo resposta](https://github.com/DheniMoura/Uninter_Trabalho-Big-Data/blob/main/Atividade_BigData.ipynb).
 Para que as questões possam ser respondidas será necessário o uso do Spark
 Hadoop em conjunto com outras ferramentas aprendidas em aula.
 De forma resumida, os passos mínimos para finalizar esta
